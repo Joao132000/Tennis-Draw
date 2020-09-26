@@ -1,0 +1,14 @@
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\bin\Debug\DesafioFinal.exe.config
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\bin\Debug\DesafioFinal.exe
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\bin\Debug\DesafioFinal.pdb
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.csprojAssemblyReference.cache
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.AdicionarResultado.resources
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.FrmTorneio.resources
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.GerarChaves.resources
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.Properties.Resources.resources
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.VisualizarChave.resources
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.csproj.GenerateResource.cache
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.exe
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.pdb
+C:\Users\germa\OneDrive\Área de Trabalho\UNIFENAS\LINGII\DesafioFinal\DesafioFinal\obj\Debug\DesafioFinal.CadastrarJogador.resources
